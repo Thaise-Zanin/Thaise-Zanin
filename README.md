@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **thaise-zanin/thaise-zanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://raw.githubusercontent.com/Thaise-Zanin/Thaise-Zanin/output/snake.svg" alt="Snake animation" />
