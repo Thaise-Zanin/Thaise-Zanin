@@ -20,7 +20,7 @@ Tenho interesse especial em **Front-End**, mas também gosto de entender o **Bac
 
 Quando não estou programando, costumo ouvir música, ver animes e aprender coisas novas por curiosidade. ‧₊˚♪ 𝄞₊˚⊹
 
-❀ Sempre buscando evoluir e tornar meu código um pouquinho mais bonito ₊⊹
+❀ Sempre buscando evoluir e tornar meu código um pouquinho mais bonito. ₊⊹
 
 ---
 
