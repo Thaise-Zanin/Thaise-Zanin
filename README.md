@@ -78,7 +78,7 @@ Quando não estou programando, costumo ouvir música, ver animes e aprender cois
   <a href="https://www.linkedin.com/in/thaise-zanin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-f7a1bf?style=for-the-badge&logo=linkedin&logoColor=white&color=f7a1bf&labelColor=f7a1bf" />
   </a>
-  <a href="https://www.instagram.com/thaise_zanin/" target="_blank">
+  <a href="https://www.instagram.com/thaii.zn" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-f9b9cf?style=for-the-badge&logo=instagram&logoColor=white&color=f9b9cf&labelColor=f9b9cf" />
   </a>
 </p>
