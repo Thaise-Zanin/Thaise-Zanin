@@ -14,7 +14,7 @@
 
 Sou apaixonada por **tecnologia, desenvolvimento web** e tudo que envolve **criar soluções com código**. ♡⸝⸝
 
-⁠♡ Adoro aprender novas linguagens, explorar frameworks modernos e aprimorar meus projetos. 
+⁠♡ Adoro aprender novas linguagens, explorar frameworks e aprimorar meus projetos. 
 
 Tenho interesse especial em **Front-End**, mas também gosto de entender o **Back-End** e **banco de dados**. ⋆˚࿔
 
