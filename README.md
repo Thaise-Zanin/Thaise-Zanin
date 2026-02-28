@@ -10,15 +10,13 @@
 
 ### ╰─ ♡ Sobre mim:
 
-₊ ⊹ Eu sou a **Thaise**, tenho **19 anos** e sou estudante de **Ciência da Computação**, atualmente estou no **4º semestre** da graduação.  
+₊ ⊹ Eu sou a **Thaise**, tenho **19 anos** e sou estudante de **Ciência da Computação**, atualmente estou no **5º semestre** da graduação.  
 
 Sou apaixonada por **tecnologia, desenvolvimento web** e tudo que envolve **criar soluções com código**. ♡⸝⸝
 
 ⁠♡ Adoro aprender novas linguagens, explorar frameworks e aprimorar meus projetos. 
 
-Tenho interesse especial em **Front-End**, mas também gosto de entender o **Back-End** e **banco de dados**. ⋆˚࿔
-
-Quando não estou programando, costumo ouvir música, ver animes e aprender coisas novas por curiosidade. ‧₊˚♪ 𝄞₊˚⊹
+Tenho interesse especial em **Front-End**, mas também me interesso por **Back-End**, **banco de dados** e pela área de **QA**, na qual já tive experiência. ⋆˚࿔
 
 ❀ Sempre buscando evoluir e tornar meu código um pouquinho mais bonito. ₊⊹
 
@@ -32,11 +30,11 @@ Quando não estou programando, costumo ouvir música, ver animes e aprender cois
     alt="Thaise's GitHub stats"
     height="160"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Thaise-Zanin&theme=transparent&ring=f688af&fire=f7a1bf&currStreakLabel=f9b9cf&sideNums=f7a1bf&sideLabels=f688af&dates=f9b9cf"
-    alt="GitHub Streak"
-    height="160"
-  />
+<img 
+  src="https://github-readme-streak-stats-eight.vercel.app?user=Thaise-Zanin&theme=transparent&ring=f688af&fire=f7a1bf&currStreakLabel=f9b9cf&sideNums=f7a1bf&sideLabels=f688af&dates=f9b9cf"
+  alt="GitHub Streak"
+  height="160"
+/>
 </p>
 
 ---
