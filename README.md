@@ -10,7 +10,7 @@
 
 ### ╰─ ♡ Sobre mim:
 
-₊ ⊹ Eu sou a **Thaise**, tenho **19 anos** e sou estudante de **Ciência da Computação**, atualmente estou no **5º semestre** da graduação.  
+₊ ⊹ Eu sou a **Thaise**, tenho **20 anos** e sou estudante de **Ciência da Computação**, atualmente estou no **5º semestre** da graduação.  
 
 Sou apaixonada por **tecnologia, desenvolvimento web** e tudo que envolve **criar soluções com código**. ♡⸝⸝
 
